@@ -15,6 +15,16 @@ A terminal-based Python tool to upload images to the cloud using **FreeImage.hos
 
 ---
 
+## inside  
+IMAGE UPLOADER ([-_-])
+──────────────────────────────
+➤ UPLOAD IMAGE    [1]
+➤ VIEW HISTORY    [2]
+➤ EXIT SYSTEM     [0]
+──────────────────────────────
+DEVELOPED BY: MR ZUYAN
+──────────────────────────────
+
 ## Requirements
 
 - **Python 3.x**
@@ -33,15 +43,3 @@ Run the following command to install all required external libraries:
 
 ```bash
 pip install requests rich
-
-
-
-
-IMAGE UPLOADER ([-_-])
-──────────────────────────────
-➤ UPLOAD IMAGE    [1]
-➤ VIEW HISTORY    [2]
-➤ EXIT SYSTEM     [0]
-──────────────────────────────
-DEVELOPED BY: MR ZUYAN
-──────────────────────────────
