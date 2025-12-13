@@ -1,7 +1,7 @@
 # IMAGE_UPLOADER
 
 **Unlimited Image Hosting & Upload Tool**  
-
+**Made By MR ZUYAN**
 A terminal-based Python tool to upload images to the cloud using **FreeImage.host API**. Built with Python, SQLite3, and Rich for a beautiful CLI interface. Keep track of uploaded images with **local history**.
 
 ---
@@ -42,4 +42,4 @@ DEVELOPED BY: MR ZUYAN
 Run the following command to install all required external libraries:
 
 ```bash
-pip install requests rich
+pip install requests rich base64
