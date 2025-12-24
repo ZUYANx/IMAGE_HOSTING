@@ -43,3 +43,6 @@ Run the following command to install all required external libraries:
 
 ```bash
 pip install requests rich base64
+
+```bash
+cd IMAGE_HOSTING && python upload_img.py
